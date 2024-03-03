@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.random-counter {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    font-weight: 600;
+    justify-content: center;
+
+}
