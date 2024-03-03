@@ -1,1 +1,2 @@
-https://user-images.githubusercontent.com/22612696/64236546-47533e00-cf03-11e9-915f-94d873672cd1.PNG
+
+![64236546-47533e00-cf03-11e9-915f-94d873672cd1](https://github.com/Siddiquiweb/Counter-with-documentary-help/assets/157453608/c49e8af0-ddb6-4179-978c-a077f802b8ff)
